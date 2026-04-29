@@ -83,6 +83,16 @@ All files in this repository follow the **HMS (Harvard Medical School) file nami
 > **Note:** Interview transcripts contain sensitive participant data. Do not share outside the research team without ethics approval.
 
 ---
+## How to Contribute
+
+1. **Fork** this repository to your own GitHub account.
+2. **Clone** your forked repository to your local machine.
+3. Create a **new branch** with a descriptive name (e.g., `feature/add-survey-results`).
+4. Make your changes and write a **meaningful commit message** (see below).
+5. **Push** your branch and open a **Pull Request** to the main branch.
+6. The repository owner will **review and merge** your changes.
+
+---
 
 ## Contact
 
